@@ -323,7 +323,7 @@ Shows:
 * Groundwater: 30.1% of freshwater
 * Surface and other freshwater: 1.2% of freshwater
 
-[figure-01-earth-water-distribution](Fig%201.png)
+![figure-01-earth-water-distribution](Fig%201.png)
 
 ### Figure 2 — Global Freshwater Withdrawals by Sector
 
@@ -333,7 +333,7 @@ Shows:
 * Industry: 19%
 * Municipal use: 12%
 
-[figure-02-freshwater-withdrawals](Fig%202.png)
+![figure-02-freshwater-withdrawals](Fig%202.png)
 
 ### Figure 3 — Global Household WASH Service Gaps
 
@@ -343,7 +343,7 @@ Shows the population lacking:
 * Safely managed sanitation
 * Basic hygiene services at home
 
-[figure-03-wash-service-gaps](Fig%203.png)
+![figure-03-wash-service-gaps](Fig%203.png)
 
 ### Figure 4 — Climate–Water Risk Cascade
 
@@ -369,7 +369,7 @@ The figure also identifies intervention points including:
 * Early-warning systems
 * Finance and governance
 
-[figure-04-climate-water-risk-cascade](Fig%204.png)
+![figure-04-climate-water-risk-cascade](Fig%204.png)
 
 ### Figure 5 — Integrated Water-Security Framework
 
@@ -385,7 +385,7 @@ Shows relationships among:
 * Monitoring
 * Cooperation
 
-[figure-05-water-security-framework](Fig%205.png)
+![figure-05-water-security-framework](Fig%205.png)
 
 ---
 
